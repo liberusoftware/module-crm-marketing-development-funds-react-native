@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-development-funds-react-native",
+  "capabilityKey": "liberusoftware/module-crm-marketing-development-funds",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-marketing-development-funds-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/marketing-development-funds.md",
+  "presentationPlan": "projects/crm/react-native/marketing-development-funds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
